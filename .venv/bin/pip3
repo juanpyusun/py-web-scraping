@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/home/juanpyusun/Documents/Python/web scraping/.venv/bin/python3" "$0" "$@"
-' '''
+#!/home/juanpyusun/Documents/training-web-scraping/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
